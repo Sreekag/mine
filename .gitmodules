@@ -1,0 +1,3 @@
+[submodule "joo"]
+	path = joo
+	url = https://github.com/Sreekag/joo.git
